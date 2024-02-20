@@ -1,0 +1,34 @@
+.carre-relatif {
+    width: 1000px;
+    height: 1000px; 
+    background-color: #289712a9; 
+    position: relative;
+    border: 6px solid #000000;
+}
+
+.carre-absolue1 {
+    width: 20%; 
+    height: 20%; 
+    background-color: #000000; 
+    position: absolute; 
+    top: 20%; 
+    left: 60%; 
+}
+
+.carre-absolue2 {
+    width: 20%; 
+    height: 20%; 
+    background-color: #000000; 
+    position: absolute; 
+    top: 20%; 
+    left: 20%; 
+}
+
+.rectangle-absolue1 {
+    width: 60%; 
+    height: 30%; 
+    background-color: #000000; 
+    position: absolute; 
+    top: 50%; 
+    left: 20%; 
+}
